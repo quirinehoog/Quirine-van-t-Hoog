@@ -1,5 +1,17 @@
+body{background-color:#FCECDD ;}
+
 h1{
-color: green;
+color: #FF6701;
+
 font-family: poppins;
-font-weight: normal;
+font-weight: 700;
+}
+
+p{font-family: Roboto Mono, monospace;
+color:#4F8A8B;
+font-weight: 500;}
+
+downpart{
+    display: block;
+    text-align: center;
 }
