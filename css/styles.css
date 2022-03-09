@@ -39,7 +39,9 @@ p {
 
 .connect {
   background-color: #fcecdd;
+  text-align: center;
 }
+
 
 @media (max-width: 900px) {
   .introduction {
