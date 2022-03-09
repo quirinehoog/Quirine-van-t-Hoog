@@ -12,6 +12,10 @@ h2{
     text-align: center;
 }
 
+h4{ font-family: Roboto Mono, monospace;
+color:#4F8A8B;
+font-weight: 40;}
+
 p{font-family: Roboto Mono, monospace;
 color:#4F8A8B;
 font-weight: 500;}
@@ -31,6 +35,9 @@ font-weight: 500;}
     background-color: #FCECDD;
     padding:50px;
      color:#FF6701;
+}
+.btn-outline-orange{
+    color:#FF6701;
 }
 
 @media(max-width:900px){
