@@ -1,49 +1,49 @@
-h1{
-color: #FF6701;
+h1 {
+  color: #ff6701;
 
-font-family: poppins;
-font-weight: 700;
+  font-family: poppins;
+  font-weight: 700;
 }
 
-h2{
-   background-color: whitesmoke;
-    color:#FF6701;
-    font-family:poppins;
+h2 {
+  background-color: whitesmoke;
+  color: #ff6701;
+  font-family: poppins;
+  text-align: center;
+}
+
+h4 {
+  font-family: Roboto Mono, monospace;
+  color: #4f8a8b;
+  font-weight: 40;
+}
+
+p {
+  font-family: Roboto Mono, monospace;
+  color: #4f8a8b;
+  font-weight: 500;
+}
+
+.hero {
+  background-color: #fcecdd;
+}
+.toppart {
+  padding: 50px;
+}
+
+.projects {
+  background-color: #fcecdd;
+  padding: 50px;
+  color: #ff6701;
+}
+
+.connect {
+  background-color: #fcecdd;
+}
+
+@media (max-width: 900px) {
+  .introduction {
     text-align: center;
-}
-
-h4{ font-family: Roboto Mono, monospace;
-color:#4F8A8B;
-font-weight: 40;}
-
-p{font-family: Roboto Mono, monospace;
-color:#4F8A8B;
-font-weight: 500;}
-
-.hero{
-    background-color: #FCECDD;
-}
-.toppart{
-    padding: 50px;
-}
-.downpart{
-     background-color: whitesmoke;
-    text-align: center;
-    
-}
-.projects{
-    background-color: #FCECDD;
-    padding:50px;
-     color:#FF6701;
-}
-.btn-outline-orange{
-    color:#FF6701;
-}
-
-@media(max-width:900px){
-    .introduction{
-        text-align: center;
-        padding:0;
-
-    }
+    padding: 0;
+  }
 }
