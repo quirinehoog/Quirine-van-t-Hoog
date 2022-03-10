@@ -24,7 +24,7 @@ h4 {
 
 h5 {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color:#D9534F;
+    color:#876445;
     text-align: center;
     font-size: 15px;
 
@@ -68,6 +68,14 @@ p {
 .connect {
   background-color: #fcecdd;
   text-align: center;
+}
+
+.footer{
+    text-align: center;
+    background-color: #4f8a8b ;
+}
+.footerlink{
+    color:#fcecdd;
 }
 
 @media (max-width: 900px) {
