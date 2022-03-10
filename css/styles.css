@@ -27,6 +27,11 @@ p {
   color: #4f8a8b;
   font-weight: 500;
 }
+
+.hi{
+    text-align: center;
+}
+
 .btn{
     color:#4f8a8b;
     font-family: poppins;
