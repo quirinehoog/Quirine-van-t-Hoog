@@ -13,13 +13,13 @@ h2 {
 }
 
 h3{
-    color:#4f8a8b
+    color:#FFAB76;
 }
 
 h4 {
   font-family: Roboto Mono, monospace;
   color: #4f8a8b;
-  font-size: 10px;
+  font-size: 12px;
 }
 
 p {
@@ -27,7 +27,11 @@ p {
   color: #4f8a8b;
   font-weight: 500;
 }
-
+.btn{
+    color:#4f8a8b;
+    font-family: poppins;
+    font-size: 10px;
+}
 .hero {
   background-color: #fcecdd;
 }
@@ -39,6 +43,7 @@ p {
   background-color: #fcecdd;
   padding: 50px;
   color: #ff6701;
+  text-align: center;
 }
 
 .connect {
