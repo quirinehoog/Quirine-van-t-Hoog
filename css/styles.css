@@ -6,10 +6,14 @@ h1 {
 }
 
 h2 {
-  background-color: whitesmoke;
-  color: #ff6701;
+  background-color: white;
+  color: #4f8a8b;
   font-family: poppins;
   text-align: center;
+}
+
+h3{
+    color:#4f8a8b
 }
 
 h4 {
