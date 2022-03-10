@@ -76,6 +76,8 @@ p {
 }
 .footerlink{
     color:#fcecdd;
+    text-decoration: none;
+
 }
 
 @media (max-width: 900px) {
