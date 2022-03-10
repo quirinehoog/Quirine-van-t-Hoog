@@ -22,10 +22,24 @@ h4 {
   font-size: 12px;
 }
 
+h5 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#D9534F;
+    text-align: center;
+    font-size: 15px;
+
+}
+
 p {
   font-family: Roboto Mono, monospace;
   color: #4f8a8b;
   font-weight: 500;
+}
+.aboutQ h3{
+    font-size: 20px;
+}
+.aboutQ h1{
+    font-size: 40px;
 }
 
 .hi{
