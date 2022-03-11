@@ -12,8 +12,8 @@ h2 {
   text-align: center;
 }
 
-h3{
-    color:#FFAB76;
+h3 {
+  color: #ffab76;
 }
 
 h4 {
@@ -23,11 +23,11 @@ h4 {
 }
 
 h5 {
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color:#876445;
-    text-align: center;
-    font-size: 15px;
-
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #876445;
+  text-align: center;
+  font-size: 15px;
 }
 
 p {
@@ -35,25 +35,25 @@ p {
   color: #4f8a8b;
   font-weight: 500;
 }
-.content h3{
-    font-size: 20px;
+.content h3 {
+  font-size: 20px;
 }
-.content h1{
-    font-size: 40px;
-}
-
-.header-projects{
-    font-size: 30px;
+.content h1 {
+  font-size: 40px;
 }
 
-.hi{
-    text-align: center;
+.header-projects {
+  font-size: 30px;
 }
 
-.btn{
-    color:#4f8a8b;
-    font-family: poppins;
-    font-size: 10px;
+.hi {
+  text-align: center;
+}
+
+.btn {
+  color: #4f8a8b;
+  font-family: poppins;
+  font-size: 10px;
 }
 .hero {
   background-color: #fcecdd;
@@ -74,26 +74,28 @@ p {
   text-align: center;
 }
 
-.footer{
-    text-align: center;
-    background-color: #4f8a8b ;
+.footer {
+  text-align: center;
+  background-color: #4f8a8b;
 }
-.footerlink{
-    color:#fcecdd;
-    text-decoration: none;
-
+.footer a:hover {
+  color: #ff6701;
 }
 
-.footer-socials a{
-    color:#fcecdd;
-    text-decoration: none;
-    padding:10px;
-    font-size: 20px;
-    }
+.footerlink {
+  color: #fcecdd;
+  text-decoration: none;
+}
 
-.footer-socials a:hover{
-    color:#ff6701;
-    
+.footer-socials a {
+  color: #fcecdd;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.footer-socials a:hover {
+  color: #ffab76;
 }
 
 @media (max-width: 900px) {
