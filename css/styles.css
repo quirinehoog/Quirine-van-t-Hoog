@@ -84,6 +84,18 @@ p {
 
 }
 
+.footer-socials a{
+    color:#fcecdd;
+    text-decoration: none;
+    padding:10px;
+    font-size: 20px;
+    }
+
+.footer-socials a:hover{
+    color:#ff6701;
+    
+}
+
 @media (max-width: 900px) {
   .introduction {
     text-align: center;
