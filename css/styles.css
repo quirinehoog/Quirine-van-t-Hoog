@@ -78,6 +78,11 @@ p {
   text-decoration: none;
   color: #4f8a8b;
 }
+.github-link{
+    color:#4f8a8b;
+    font-family: Roboto Mono, monospace;
+    font-size: 20px;
+}
 
 .footer {
   text-align: center;
