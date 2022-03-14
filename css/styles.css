@@ -74,6 +74,11 @@ p {
   text-align: center;
 }
 
+.mailtolink {
+  text-decoration: none;
+  color: #4f8a8b;
+}
+
 .footer {
   text-align: center;
   background-color: #4f8a8b;
